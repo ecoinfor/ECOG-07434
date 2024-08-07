@@ -2,6 +2,7 @@
 Data for "Phylogenetic structure of liverwort assemblages along an elevational gradient in the tropical Andes: Geographic patterns and climatic drivers"
 
 Please cite this paper if you use this dataset:
+
 Qian, H. & Kessler, M. (2024) Phylogenetic structure of liverwort assemblages along an elevational gradient in the tropical Andes: Geographic patterns and climatic drivers. Ecography 2024: e07434. [DOI: 10.1111/ecog.07434](https://doi.org/10.1111/ecog.07434)
 
 Abstract
